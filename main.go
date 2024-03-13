@@ -8,5 +8,5 @@ import (
 
 func main() {
 	log.SetFlags(0)
-	ui.Run("/root/workspace/nes/Super Mario Bros. (Japan, USA).nes")
+	ui.Run("")
 }
